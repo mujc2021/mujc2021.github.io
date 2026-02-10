@@ -1,2 +1,2 @@
-# juuycc0213.github.io
-Yuanchen Ju's personal homepage
+# mujc2021.github.io
+Juncheng Mu's personal homepage
